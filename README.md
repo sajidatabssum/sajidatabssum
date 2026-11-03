@@ -6,9 +6,7 @@
 
 <!-- SOCIAL LINKS -->
 <p align="center">
-  <a href="https://sajida-faculty-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-171717?style=for-the-badge&logo=vercel&logoColor=C4B8D9" />
-  </a>
+  <a href="https://sajida-faculty-portfolio.vercel.app/"></a>
   <a href="https://pk.linkedin.com/in/sajida-tabssum-1b074a198">
     <img src="https://img.shields.io/badge/LINKEDIN-Connect-171717?style=for-the-badge&logo=linkedin&logoColor=C4B8D9" />
   </a>
