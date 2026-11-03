@@ -6,18 +6,20 @@
 
 <!-- SOCIAL LINKS -->
 <p align="center">
-  <a href="https://sajida-faculty-portfolio.vercel.app/"></a>
+  <a href="https://sajida-faculty-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=vercel&logoColor=C4B8D9" />
+  </a>
   <a href="https://pk.linkedin.com/in/sajida-tabssum-1b074a198">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-171717?style=for-the-badge&logo=linkedin&logoColor=C4B8D9" />
+    <img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=C4B8D9" />
   </a>
   <a href="https://www.kaggle.com/sajidarafique">
-    <img src="https://img.shields.io/badge/KAGGLE-Profile-171717?style=for-the-badge&logo=kaggle&logoColor=C4B8D9" />
+    <img src="https://img.shields.io/badge/Kaggle-171717?style=for-the-badge&logo=kaggle&logoColor=C4B8D9" />
   </a>
   <a href="https://futurecoderslab.com/">
-    <img src="https://img.shields.io/badge/FUTURE%20CODERS%20LAB-Explore-171717?style=for-the-badge&logo=code&logoColor=C4B8D9" />
+    <img src="https://img.shields.io/badge/Future_Coders_Lab-171717?style=for-the-badge&logo=code&logoColor=C4B8D9" />
   </a>
   <a href="mailto:sajidatabssum.cs@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-Contact-171717?style=for-the-badge&logo=gmail&logoColor=C4B8D9" />
+    <img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=C4B8D9" />
   </a>
 </p>
 
