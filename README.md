@@ -1,7 +1,7 @@
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="./banner.jpg" width="100%" alt="Sajida Tabassum - Computer Science Faculty | Aspiring AI Engineer" />
+  <img src="./github_kaggle_banner.png" width="100%" alt="Sajida Tabassum - Computer Science Faculty | Aspiring AI Engineer" />
 </p>
 
 <!-- SOCIAL LINKS -->
